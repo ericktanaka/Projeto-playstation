@@ -182,6 +182,11 @@ h4 {
     cursor: pointer;
 }
 
+.social-links img:hover {
+    transform: scale(1.7);
+    transition: 0.5s;
+}
+
 .menu-icon {
     width: 25px;
     margin-right: 15px;
